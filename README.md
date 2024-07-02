@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Guilherme! A software developer from Brazil</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Guilherme! A software developer from Recife</h1></summary>
 </div>
 
 <!-- Presentation -->
