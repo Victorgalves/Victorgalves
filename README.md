@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Guilherme! A software developer from Recife</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Guilherme! A computer science student from Recife</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. I have intermediate proficiency in English and experience with Java, Python, C and Object oriented programming.
+  - 💬 I am 22 years old, currently living in Brazil. I have intermediate proficiency in English and experience with Java, Python and AWS.
   - ⚡ I enjoy practicing sports, especially street running, which helps me maintain physical and mental balance.
 </details>
 
