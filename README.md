@@ -13,7 +13,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. I have intermediate proficiency in English and experience with Java, Python and Cloud Computing.
+  - 💬 Based in Brazil. Experience with Java, Python, and Cloud Computing. Intermediate English proficiency.
   - ⚡ I enjoy practicing sports, especially street running, which helps me maintain physical and mental balance.
 </details>
 
